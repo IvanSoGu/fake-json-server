@@ -217,18 +217,4 @@
     "image-behind": "https://images.footlocker.com/is/image/FLEU/314103984804_03?wid=500&hei=500&fmt=png-alpha"
   }
 ],
-  "users":[
-    {
-      "id":1,
-      "name":"Iván",
-    },
-    {
-      "id":2,
-      "name": "David",
-    },
-    {
-      "id":3,
-      "name": "Andrea",
-    },
-  ]
 }
