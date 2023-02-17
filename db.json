@@ -220,15 +220,23 @@
    "users": [
       {
          "id":1,
-         "name":"Iván"
+         "name":"Iván",
+         "password":"Polaris"
       },
       {
          "id":2,
-         "name":"David"
+         "name":"Estefi",
+         "password":"Patata"
       },
       {
          "id":3,
-         "name":"Andrea chistes malos"
+         "name":"David",
+         "password":"Messi"
+      },
+      {
+         "id":4,
+         "name":"Andrea chistes malos",
+         "password":"Paracetamol"
       }
    ]
 }
